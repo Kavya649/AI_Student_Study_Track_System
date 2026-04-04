@@ -1,0 +1,12 @@
+Student_ID,Date,Study_Duration,Subject,Distractions,Quiz_Score
+STU1001,2026-03-10,180,Programming,Noise,70
+STU1000,2026-03-10,60,Science,Phone,70
+STU1000,2026-03-10,20,English,,35
+STU1000,2026-03-10,65,Programming,Noise,43
+STU1005,2026-03-10,60,Mathematics,,70
+STU1026,2026-03-09,50,Programming,Social Media,88
+STU1000,2026-03-10,58,Mathematics,,35
+STU1066,2026-03-10,120,Mathematics,,63
+STU1066,2026-03-10,111,Mathematics,,85
+STU1041,2026-03-12,111,Mathematics,Phone,58
+STU1005,2026-04-01,60,Mathematics,Phone,70
