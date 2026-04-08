@@ -45,19 +45,17 @@ An AI-powered student study tracking web application built with **Streamlit** an
 ## 📁 Project Structure
 
 project/
-├── app.py                        ← Auth + role-based navigation
-├── cluster_config.json           ← Cluster configuration storage
-├── Study_Track_AI_Project.csv    ← Main dataset
-├── student_logs.csv              ← Student session logs
-├── users.json                    ← Registered users
+├── app.py
+├── cluster_config.json
+├── Study_Track_AI_Project.csv
+├── student_logs.csv
+├── users.json
 └── pages/
-├── 0_Admin_Dashboard.py      ← System metrics + retrain buttons
-├── 0_Study_Log_Sessions.py   ← Student log entry + history
-├── 1_Student_Interface.py    ← Recommendations + chatbot
-├── 2_Admin_Panel.py          ← Clustering + add student
-└── 3_Analytics_Dashboard.py  ← EDA charts + correlation analysis
-
----
+    ├── 0_Admin_Dashboard.py
+    ├── 0_Study_Log_Sessions.py
+    ├── 1_Student_Interface.py
+    ├── 2_Admin_Panel.py
+    └── 3_Analytics_Dashboard.py
 
 ## ⚙️ Installation
 
