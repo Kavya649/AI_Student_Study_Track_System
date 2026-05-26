@@ -4,7 +4,7 @@ An AI-powered student study tracking web application built with **Streamlit** an
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 ### 🔐 Authentication
 - Role-based login system (Student / Admin)
